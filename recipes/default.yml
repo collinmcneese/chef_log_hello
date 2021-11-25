@@ -1,0 +1,10 @@
+#
+# Cookbook:: log_hello
+# Recipe:: default
+#
+
+---
+resources:
+- name: hello
+  type: log
+  level: info
