@@ -7,4 +7,3 @@
 resources:
 - name: hello
   type: log
-  level: info
