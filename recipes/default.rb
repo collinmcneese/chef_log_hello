@@ -3,7 +3,4 @@
 # Recipe:: default
 #
 
----
-resources:
-- name: hello
-  type: log
+log 'hello'
